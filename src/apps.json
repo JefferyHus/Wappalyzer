@@ -3659,6 +3659,17 @@
       "website": "laravel.com",
       "icon": "Laravel.png"
     },
+    "FuelPHP": {
+      "cats": [
+        18
+      ],
+      "headers": {
+        "Set-Cookie": "fuelcid"
+      },
+      "implies": "PHP",
+      "website": "fuelphp.com",
+      "icon": "fuel.png"
+    },
     "Lazy.js": {
       "cats": [
         12
